@@ -5,3 +5,5 @@ Application is able to recognize local Czech environment. In this case  it uses 
 If is possible and available, application uses accelerated graphics and double buffering.
 
 By default, application uses animation frequency 60 frames per second.
+
+Download LoydsPuzzle.rar, unpack it somewhere and run the LoydsPuzzle.jar file
